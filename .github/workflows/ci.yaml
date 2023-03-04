@@ -63,4 +63,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: beliefloatsky/cicd-example:latest
+          tags: beliefloatsky/test_docker_hub
